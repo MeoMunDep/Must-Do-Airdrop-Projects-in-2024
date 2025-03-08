@@ -34,6 +34,7 @@ A list of free crypto mining apps, including referral codes for extra rewards up
 | 26 | **HoneyGain** | [Sign Up](https://r.honeygain.me/IAMAKB99EF) | - |
 | 27 | **OpenLedger Node** | [Sign Up](https://testnet.openledger.xyz/?referral_code=vp57sus3lu) | - |
 | 28 | **DEPINED** | [Install](https://chromewebstore.google.com/detail/depined/pjlappmodaidbdjhmhifbnnmmkkicjoc) | `DE4mMpHsh0T266` |
+| 28 | **Naoris** | [Install](https://chromewebstore.google.com/detail/naoris-protocol-wallet/dbgibbbeebmbmmhmebogidfbfehejgfo) | `nyef7qjEMvqYIOML` |
 
 ## 📌 How to Get Started  
 1. Select the app you want to join.  
