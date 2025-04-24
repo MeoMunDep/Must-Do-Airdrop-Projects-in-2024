@@ -35,7 +35,7 @@
 | 33  | ECHO       | [Link](https://sayecho.xyz/?r=MeoMeow108)                                                                 | WALLETS   | PROCESSING |
 | 34  | XION       | [Link](https://early.prometheansaga.com/)                                                                 | DEX/FINANCE | PROCESSING |
 | 35  | ATLAS      | [Link](https://testnet.atlasnetwork.xyz/refer/7kurme3)                                                    | TESTNET   | PROCESSING |
-| 36  | BALANCE    | [Link](https://balance.fun/rewards?invite_code=mrWt8R33y)                                                | GAME/DEFI | PROCESSING |
+| 36  | BALANCE    | [Link](https://balance.fun/rewards?invite_code=mrWt8R33y)                                                | GAME/DEFI | ENDED |
 | 37  | ATHER      | [Link](https://account.atherlabs.com/onboarding?referralCode=MzIzMDA2MzkzNTA0)                             | GAME/DEFI | PROCESSING |
 | 38  | STARPOWER  | [Link](https://www.starpower.world/wallet?ReferralCode=TUDAAS)                                            | DEPIN/NODE | PROCESSING |
 | 39  | OTOCO      | [Link](https://points.otoco.io/?referral=meomundep)                                                       | CHAIN     | PROCESSING |
