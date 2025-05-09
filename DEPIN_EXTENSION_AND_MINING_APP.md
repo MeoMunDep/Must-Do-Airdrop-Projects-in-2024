@@ -34,9 +34,10 @@ A list of free crypto mining apps, including referral codes for extra rewards up
 | 26 | **HoneyGain** | [Sign Up](https://r.honeygain.me/IAMAKB99EF) | - |
 | 27 | **OpenLedger Node** | [Sign Up](https://testnet.openledger.xyz/?referral_code=vp57sus3lu) | - |
 | 28 | **DEPINED** | [Install](https://chromewebstore.google.com/detail/depined/pjlappmodaidbdjhmhifbnnmmkkicjoc) | `DE4mMpHsh0T266` |
-| 28 | **Naoris** | [Install](https://chromewebstore.google.com/detail/naoris-protocol-wallet/dbgibbbeebmbmmhmebogidfbfehejgfo) | `nyef7qjEMvqYIOML` |
-| 28 | **Monad Score** | [Install](https://monadscore.xyz/signup/r/DAuzQaAF) | `DAuzQaAF` |
-| 28 | **Flow3** | [Install](https://dashboard.flow3.tech/?ref=Hr8nBJgvJ) | `Hr8nBJgvJ` |
+| 29 | **Naoris** | [Install](https://chromewebstore.google.com/detail/naoris-protocol-wallet/dbgibbbeebmbmmhmebogidfbfehejgfo) | `nyef7qjEMvqYIOML` |
+| 30 | **Monad Score** | [Install](https://monadscore.xyz/signup/r/DAuzQaAF) | `DAuzQaAF` |
+| 31 | **Flow3** | [Install](https://dashboard.flow3.tech/?ref=Hr8nBJgvJ) | `Hr8nBJgvJ` |
+| 32 | **Flow3** | [Install]([https://dashboard.flow3.tech/?ref=Hr8nBJgvJ](https://chromewebstore.google.com/detail/ping-network-vpn/geeedmdpncfeomhgbjeafcahepjelimg?utm_source=main)) | `hrdgv4` |
 
 ## 📌 How to Get Started  
 1. Select the app you want to join.  
