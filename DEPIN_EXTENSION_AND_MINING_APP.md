@@ -37,7 +37,8 @@ A list of free crypto mining apps, including referral codes for extra rewards up
 | 29 | **Naoris** | [Install](https://chromewebstore.google.com/detail/naoris-protocol-wallet/dbgibbbeebmbmmhmebogidfbfehejgfo) | `nyef7qjEMvqYIOML` |
 | 30 | **Monad Score** | [Install](https://monadscore.xyz/signup/r/DAuzQaAF) | `DAuzQaAF` |
 | 31 | **Flow3** | [Install](https://dashboard.flow3.tech/?ref=Hr8nBJgvJ) | `Hr8nBJgvJ` |
-| 32 | **Flow3** | [Install]([https://dashboard.flow3.tech/?ref=Hr8nBJgvJ](https://chromewebstore.google.com/detail/ping-network-vpn/geeedmdpncfeomhgbjeafcahepjelimg?utm_source=main)) | `hrdgv4` |
+| 32 | **Flow3** | [Install](https://chromewebstore.google.com/detail/ping-network-vpn/geeedmdpncfeomhgbjeafcahepjelimg?utm_source=main) | `hrdgv4` |
+| 32 | **Flow3** | [Install](https://app.chakra.dev/?ref=E6AGGY) | - |
 
 ## 📌 How to Get Started  
 1. Select the app you want to join.  
