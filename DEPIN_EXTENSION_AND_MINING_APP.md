@@ -27,6 +27,7 @@ A list of free crypto mining apps, including referral codes for extra rewards up
 | 31 | **Flow3** | [Install](https://dashboard.flow3.tech/?ref=Hr8nBJgvJ) | `Hr8nBJgvJ` |
 | 32 | **Ping network** | [Install](https://chromewebstore.google.com/detail/ping-network-vpn/geeedmdpncfeomhgbjeafcahepjelimg?utm_source=main) | `hrdgv4` |
 | 32 | **Chakra** | [Install](https://app.chakra.dev/?ref=E6AGGY) | - |
+| 33 | **Browser Cash** | [Install](https://app.browser.cash/install?ref=0mu1wyhx) | - |
 
 ## 📌 How to Get Started  
 1. Select the app you want to join.  
