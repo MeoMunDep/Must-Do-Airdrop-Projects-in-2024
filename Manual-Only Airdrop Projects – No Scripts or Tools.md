@@ -12,7 +12,6 @@
 | 11  | SOCIALSCAN | [Link](https://socialscan.io/home?invitation_code=8LOBGK61)                                              | AI        | PROCESSING |
 | 12  | GENESIS    | [Link](https://genesis.dfusion.ai/?r=aq3f33xh)                                                           | NETWORK/CHAIN | PROCESSING |
 | 13  | WAYFINDER  | [Link](https://app.wayfinder.ai/referra.l/TESZG0)                                                         | WALLETS   | PROCESSING |
-| 14  | ECHO       | [Link](https://sayecho.xyz/?r=MeoMeow108)                                                                 | WALLETS   | PROCESSING |
-| 15  | VALHALLA   | [Link](https://valhalla.exchange/)                                                                         | CHAIN     | WAITLIST   |
-| 16  | CYPHER     | [Link](https://cypher.z1labs.ai/testnet/)                                                                 | TESTNET   | PROCESSING |
-| 17  | ETHOS      | [Link](https://app.ethos.network/claim?referral=MTU2OTY3ODI3ODg0NzUyNDg2NA)                              | CHAIN     | PROCESSING |
+| 14  | VALHALLA   | [Link](https://valhalla.exchange/)                                                                         | CHAIN     | WAITLIST   |
+| 15  | CYPHER     | [Link](https://cypher.z1labs.ai/testnet/)                                                                 | TESTNET   | PROCESSING |
+| 16  | ETHOS      | [Link](https://app.ethos.network/claim?referral=MTU2OTY3ODI3ODg0NzUyNDg2NA)                              | CHAIN     | PROCESSING |
