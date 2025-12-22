@@ -29,6 +29,7 @@ A list of free crypto mining apps, including referral codes for extra rewards up
 | 21 | **Chakra** | [Install](https://app.chakra.dev/?ref=E6AGGY) | - |
 | 22 | **Browser Cash** | [Install](https://app.browser.cash/install?ref=0mu1wyhx) | - |
 | 23 | **Membit** | [Install](https://hunter.membit.ai/?code=KKMWSCZJ) | - |
+| 24 | **DataHive AI** | [Install](https://datahive.ai?invite=dgzhsj3) | - |
 
 ## 📌 How to Get Started  
 1. Select the app you want to join.  
